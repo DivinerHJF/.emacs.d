@@ -1157,6 +1157,10 @@
 	     nil "Major mode for SiSU markup text" single
 	     ((:url . "http://www.sisudoc.org/")
 	      (:keywords "text" "syntax" "processes" "tools"))])
+ (smalltalk-mode .
+		 [(3 2 92)
+		  nil "Major mode for the Smalltalk programming language" tar
+		  ((:url . "http://elpa.gnu.org/packages/smalltalk-mode.html"))])
  (smart-yank .
 	     [(0 1 1)
 	      ((emacs

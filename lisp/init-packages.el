@@ -21,6 +21,8 @@
 		swiper
 		counsel
 		smartparens
+		popwin
+		org-bullets
 		;; --- Major Mode ---
 		js2-mode
 		;; --- Minor Mode ---
@@ -64,10 +66,13 @@
 (setq ivy-use-virtual-buffers t)
 (setq enable-recursive-minibuffers t)
 
-
 ;;- config for smartparens
 (require 'smartparens-config)
 (smartparens-global-mode t)
+
+;;- config for popwin
+(require 'popwin)
+(popwin-mode 1)
 
 ;;- config for monokai-theme
 (load-theme 'monokai t)

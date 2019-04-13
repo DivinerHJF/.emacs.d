@@ -1,0 +1,10 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-capture-last-stored"
+ (filename . "~/org-document/schedule/passwords.org.cpt")
+ (front-context-string . "*  [2019-04-13 周")
+ (rear-context-string . "- 密码: @hjf1997\n\n")
+ (position . 109))
+)
